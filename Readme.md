@@ -2,7 +2,8 @@
 
 ## Timus Network ve Patika.dev tarafıdan gerçekleştirilen bir Eğitim reposudur.
 
-    <img src="Assets/Main.jpg" alt="">
+<img src="Assets/Main.jpg" alt="">
+
 
 | Hafta                | Konular                                                                                     |
 | -------------------- | ------------------------------------------------------------------------------------------- |
