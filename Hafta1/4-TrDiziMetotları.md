@@ -140,46 +140,62 @@ Bu sadece birkaçıdır; JavaScript'te dizilerle çalışmak için kullanabilece
 `copyWithin()`: Dizinin belirli bir kısmını belirtilen pozisyona kopyalar.
 <br/>
 
-``slice(): Dizi içerisinden belirli bir aralığı kopyalar ve yeni bir dizi döndürür.
+`slice()`: Dizi içerisinden belirli bir aralığı kopyalar ve yeni bir dizi döndürür.
 
 ### Dizi Değiştirme Metotları:
 
-`push(): Diziye bir veya daha fazla öğe ekler.s
-`pop(): Dizinin sonundan bir öğe çıkarır.
-`unshift(): Diziye bir veya daha fazla öğe ekler ve dizinin başına yerleştirir.
-`shift(): Dizinin başından bir öğe çıkarır.
-splice(): Dizi içerisinden belirli bir aralığı değiştirir veya kaldırır.
+`push()`: Diziye bir veya daha fazla öğe ekler.
+<br/>
+
+`pop()`: Dizinin sonundan bir öğe çıkarır.
+<br/>
+
+`unshift()`: Diziye bir veya daha fazla öğe ekler ve dizinin başına yerleştirir.
+<br/>
+
+`shift()`: Dizinin başından bir öğe çıkarır.
+<br/>
+
+`splice()`: Dizi içerisinden belirli bir aralığı değiştirir veya kaldırır.
 
 ### Dizi Filtreleme ve Dönüştürme Metotları:
 
-filter(): Belirli bir koşulu karşılayan öğeleri içeren yeni bir dizi döndürür.
-map(): Dizideki her öğeyi belirli bir işlemden geçirip yeni bir dizi döndürür.
-reduce(): Dizi öğelerini birleştirerek tek bir değer döndürür.
-reduceRight(): Dizi öğelerini sağdan sola doğru birleştirerek tek bir değer döndürür.
-reverse(): Dizinin sırasını tersine çevirir.
-sort(): Diziyi sıralar.
+`filter()`: Belirli bir koşulu karşılayan öğeleri içeren yeni bir dizi döndürür.
+<br/>
+
+`map()`: Dizideki her öğeyi belirli bir işlemden geçirip yeni bir dizi döndürür.
+<br/>
+
+`reduce()`: Dizi öğelerini birleştirerek tek bir değer döndürür.
+<br/>
+
+`reduceRight()`: Dizi öğelerini sağdan sola doğru birleştirerek tek bir değer döndürür.
+<br/>
+
+`reverse()`: Dizinin sırasını tersine çevirir.<br/>
+`sort()`: Diziyi sıralar.<br/>
 
 ### Dizi Arama ve Düzenleme Metotları:
 
-indexOf(): Belirli bir öğenin indeksini döndürür.
-lastIndexOf(): Belirli bir öğenin sondan itibaren indeksini döndürür.
-find(): Belirli bir koşulu sağlayan ilk öğeyi döndürür.
-findIndex(): Belirli bir koşulu sağlayan ilk öğenin indeksini döndürür.
-includes(): Belirli bir öğe dizide bulunuyorsa true döndürür.
-some(): Belirli bir koşulu sağlayan en az bir öğe varsa true döndürür.
-every(): Tüm öğelerin belirli bir koşulu sağlaması durumunda true döndürür.
-fill(): Diziyi belirtilen bir değerle doldurur.
-join(): Dizi öğelerini birleştirip bir karakter dizisi döndürür.
-toString(): Dizi öğelerini birleştirip bir karakter dizisi olarak döndürür.
+`indexOf()`: Belirli bir öğenin indeksini döndürür.<br/>
+`lastIndexOf()`: Belirli bir öğenin sondan itibaren indeksini döndürür.<br/>
+`find()`: Belirli bir koşulu sağlayan ilk öğeyi döndürür.<br/>
+`findIndex()`: Belirli bir koşulu sağlayan ilk öğenin indeksini döndürür.<br/>
+`includes()`: Belirli bir öğe dizide bulunuyorsa true döndürür.<br/>
+`some()`: Belirli bir koşulu sağlayan en az bir öğe varsa true döndürür.<br/>
+`every()`: Tüm öğelerin belirli bir koşulu sağlaması durumunda true döndürür.<br/>
+`fill()`: Diziyi belirtilen bir değerle doldurur.<br/>
+`join()`: Dizi öğelerini birleştirip bir karakter dizisi döndürür.<br/>
+`toString()`: Dizi öğelerini birleştirip bir karakter dizisi olarak döndürür.<br/>
 
 ### Dizi Boyut ve Bilgi Metotları:
 
-length: Dizi uzunluğunu döndürür.
-isArray(): Bir nesnenin bir dizi olup olmadığını kontrol eder.
-concat(): İki veya daha fazla diziyi birleştirir ve yeni bir dizi döndürür.
+`length`: Dizi uzunluğunu döndürür.<br/>
+`isArray()`: Bir nesnenin bir dizi olup olmadığını kontrol eder.<br/>
+`concat()`: İki veya daha fazla diziyi birleştirir ve yeni bir dizi döndürür.<br/>
 
 ### Dizi Düzenleme Metotları:
 
-copyWithin(): Dizi içerisinden belirli bir kısmını belirtilen pozisyona kopyalar.
-fill(): Diziyi belirtilen bir değerle doldurur.
-sort(): Dizi öğelerini alfabetik veya sayısal olarak sıralar.
+`copyWithin()`: Dizi içerisinden belirli bir kısmını belirtilen pozisyona kopyalar.<br/>
+`fill()`: Diziyi belirtilen bir değerle doldurur.<br/>
+`sort()`: Dizi öğelerini alfabetik veya sayısal olarak sıralar.<br/>
