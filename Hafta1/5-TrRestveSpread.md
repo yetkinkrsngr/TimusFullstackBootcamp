@@ -25,6 +25,7 @@ Rest parametreleri, belirsiz sayıda argümanla çalışmanız gerektiğinde vey
 
 > spread operatörü, bir nesnenin veya bir dizinin elemanlarını başka bir nesneye veya diziye kopyalamak veya birleştirmek için kullanılan bir operatördür. Spread operatörü üç nokta üst üste (...) şeklinde kullanılır. İşte JavaScript'te spread operatörünün kullanımına dair birkaç örnek:
 
+```javascript
 Dizi Elemanlarını Kopyalama:
 const orijinalDizi = [1, 2, 3];
 const kopyaDizi = [...orijinalDizi];
@@ -43,29 +44,39 @@ const nesne1 = { ad: 'John' };
 const nesne2 = { soyad: 'Doe' };
 const birlesikNesne = { ...nesne1, ...nesne2 };
 console.log(birlesikNesne); // { ad: 'John', soyad: 'Doe' }
+```
+
 Spread operatörü, verileri kopyalamak veya birleştirmek için kullanışlı bir araçtır ve kodunuzu daha okunaklı ve düzenli hale getirmenize yardımcı olabilir.
 
 “…” aynı gibi geldi değil mi gelin farklarına bakalım.
 Spread operatörü ve rest parametresi (rest operator) benzer görünebilir, ancak farklı amaçlar için kullanılırlar ve çalışma şekilleri farklıdır.
 
-Spread Operatörü (...):
+## Spread Operatörü (...):
 
-Spread operatörü, genellikle bir dizi veya nesnenin elemanlarını ayırarak kullanılır. Bu operatörü kullanarak bir dizi veya nesne içindeki elemanları alabilir ve ayrı ayrı elemanlar olarak kullanabilirsiniz.
-Spread operatörü, genellikle yeni bir dizi veya nesne oluşturmak veya mevcut bir diziye veya nesneye başka bir dizi veya nesne eklemek için kullanılır.
+> Spread operatörü, genellikle bir dizi veya nesnenin elemanlarını ayırarak kullanılır. Bu operatörü kullanarak bir dizi veya nesne içindeki elemanları alabilir ve ayrı ayrı elemanlar olarak kullanabilirsiniz.
+> Spread operatörü, genellikle yeni bir dizi veya nesne oluşturmak veya mevcut bir diziye veya nesneye başka bir dizi veya nesne eklemek için kullanılır.
+
 Örnek kullanımı:
+
+```javascript
 const arr1 = [1, 2, 3];
 const arr2 = [...arr1, 4, 5]; // Yeni bir dizi oluşturur: [1, 2, 3, 4, 5]
 Rest Parametresi (...):
+```
 
 Rest parametresi, bir fonksiyonun argümanlarını yakalamak için kullanılır. Fonksiyon tanımında kullanıldığında, bu parametre geriye kalan argümanları bir dizi olarak toplar.
 Rest parametresi, bir fonksiyonun tanımında kullanılırken spread operatörü ise bir dizi veya nesne oluştururken kullanılır.
 Örnek kullanımı:
+
+```javascript
 function topla(...sayilar) {
-let toplam = 0;
-for (const sayi of sayilar) {
-toplam += sayi;
-}
-return toplam;
+  let toplam = 0;
+  for (const sayi of sayilar) {
+    toplam += sayi;
+  }
+  return toplam;
 }
 const sonuc = topla(1, 2, 3, 4, 5); // sonuc değeri: 15
-Kısacası, spread operatörü verileri ayırmak ve yeni nesneleri/dizileri oluşturmak için kullanılırken, rest parametresi fonksiyon argümanlarını toplamak ve bir dizi içinde kullanmak için kullanılır. İşlevleri farklıdır, ancak her ikisi de ... sembolünü kullanır.
+```
+
+> Kısacası, spread operatörü verileri ayırmak ve yeni nesneleri/dizileri oluşturmak için kullanılırken, rest parametresi fonksiyon argümanlarını toplamak ve bir dizi içinde kullanmak için kullanılır. İşlevleri farklıdır, ancak her ikisi de ... sembolünü kullanır.
