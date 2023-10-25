@@ -126,10 +126,20 @@ Bu sadece birkaçıdır; JavaScript'te dizilerle çalışmak için kullanabilece
 ### Dizi Oluşturma ve Kopyalama Metotları:
 
 `Array()` veya []: Yeni bir dizi oluşturur.
+<br/>
+
 `Array.from()`: Bir dizi benzeri nesneyi veya iterable'ı bir diziye dönüştürür.
+<br/>
+
 `Array.of()`: Belirtilen öğeleri içeren yeni bir dizi oluşturur.
+<br/>
+
 `concat()`: İki veya daha fazla diziyi birleştirir ve yeni bir dizi döndürür.
+<br/>
+
 `copyWithin()`: Dizinin belirli bir kısmını belirtilen pozisyona kopyalar.
+<br/>
+
 ``slice(): Dizi içerisinden belirli bir aralığı kopyalar ve yeni bir dizi döndürür.
 
 ### Dizi Değiştirme Metotları:
