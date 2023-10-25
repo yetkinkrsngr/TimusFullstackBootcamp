@@ -135,4 +135,4 @@ null === undefined; // false
 null == undefined; // true
 ```
 
-[](../Assets/data.webp)
+![logo](../Assets/data.webp)
