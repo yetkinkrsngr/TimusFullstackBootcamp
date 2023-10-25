@@ -6,7 +6,7 @@
 
 | Hafta               | Konular                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------- |
-| [1.Hafta](/Hafta1/) | [JavaScript'e Giriş (Tarihçesi,Veri tipleri,Operatörler,Objeler,Diziler,Döngüler)](1.Hafta) |
+| [1.Hafta](Hafta1/) | [JavaScript'e Giriş (Tarihçesi,Veri tipleri,Operatörler,Objeler,Diziler,Döngüler)](1.Hafta) |
 | [2.Hafta](#week-2)  | [ ](#week-2)                                                                                |
 | [3.Hafta](#week-3)  | [ ](#week-3)                                                                                |
 | [4.Hafta](#week-4)  | [ ](#week-4)                                                                                |
