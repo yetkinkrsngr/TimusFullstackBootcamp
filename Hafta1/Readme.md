@@ -6,4 +6,4 @@
 | Primitive Data Types - İlkel Veri Türleri    |
 | Referance Data Types - Referans Veri Türleri |
 | Arrays Metots - Dizi metotları               |
-| Object                                       |
+| Bonus Rest parameters, Spread Operator       |
