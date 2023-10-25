@@ -125,53 +125,27 @@ Bu sadece birkaçıdır; JavaScript'te dizilerle çalışmak için kullanabilece
 
 ### Dizi Oluşturma ve Kopyalama Metotları:
 
-`Array()` veya []: Yeni bir dizi oluşturur.
-<br/>
-
-`Array.from()`: Bir dizi benzeri nesneyi veya iterable'ı bir diziye dönüştürür.
-<br/>
-
-`Array.of()`: Belirtilen öğeleri içeren yeni bir dizi oluşturur.
-<br/>
-
-`concat()`: İki veya daha fazla diziyi birleştirir ve yeni bir dizi döndürür.
-<br/>
-
-`copyWithin()`: Dizinin belirli bir kısmını belirtilen pozisyona kopyalar.
-<br/>
-
-`slice()`: Dizi içerisinden belirli bir aralığı kopyalar ve yeni bir dizi döndürür.
+`Array()` veya []: Yeni bir dizi oluşturur.<br/>
+`Array.from()`: Bir dizi benzeri nesneyi veya iterable'ı bir diziye dönüştürür.<br/>
+`Array.of()`: Belirtilen öğeleri içeren yeni bir dizi oluşturur.<br/>
+`concat()`: İki veya daha fazla diziyi birleştirir ve yeni bir dizi döndürür.<br/>
+`copyWithin()`: Dizinin belirli bir kısmını belirtilen pozisyona kopyalar.<br/>
+`slice()`: Dizi içerisinden belirli bir aralığı kopyalar ve yeni bir dizi döndürür.<br/>
 
 ### Dizi Değiştirme Metotları:
 
-`push()`: Diziye bir veya daha fazla öğe ekler.
-<br/>
-
-`pop()`: Dizinin sonundan bir öğe çıkarır.
-<br/>
-
-`unshift()`: Diziye bir veya daha fazla öğe ekler ve dizinin başına yerleştirir.
-<br/>
-
-`shift()`: Dizinin başından bir öğe çıkarır.
-<br/>
-
-`splice()`: Dizi içerisinden belirli bir aralığı değiştirir veya kaldırır.
+`push()`: Diziye bir veya daha fazla öğe ekler.<br/>
+`pop()`: Dizinin sonundan bir öğe çıkarır.<br/>
+`unshift()`: Diziye bir veya daha fazla öğe ekler ve dizinin başına yerleştirir.<br/>
+`shift()`: Dizinin başından bir öğe çıkarır.<br/>
+`splice()`: Dizi içerisinden belirli bir aralığı değiştirir veya kaldırır.<br/>
 
 ### Dizi Filtreleme ve Dönüştürme Metotları:
 
-`filter()`: Belirli bir koşulu karşılayan öğeleri içeren yeni bir dizi döndürür.
-<br/>
-
-`map()`: Dizideki her öğeyi belirli bir işlemden geçirip yeni bir dizi döndürür.
-<br/>
-
-`reduce()`: Dizi öğelerini birleştirerek tek bir değer döndürür.
-<br/>
-
-`reduceRight()`: Dizi öğelerini sağdan sola doğru birleştirerek tek bir değer döndürür.
-<br/>
-
+`filter()`: Belirli bir koşulu karşılayan öğeleri içeren yeni bir dizi döndürür.<br/>
+`map()`: Dizideki her öğeyi belirli bir işlemden geçirip yeni bir dizi döndürür.<br/>
+`reduce()`: Dizi öğelerini birleştirerek tek bir değer döndürür.<br/>
+`reduceRight()`: Dizi öğelerini sağdan sola doğru birleştirerek tek bir değer döndürür.<br/>
 `reverse()`: Dizinin sırasını tersine çevirir.<br/>
 `sort()`: Diziyi sıralar.<br/>
 

@@ -110,51 +110,51 @@ JavaScript arrays are versatile and powerful, and they can be used in a wide ran
 
 ### Array Creation and Copying Methods:
 
-Array() or []: Creates a new array.
-Array.from(): Converts an array-like object or iterable into an array.
-Array.of(): Creates a new array with specified elements.
-concat(): Combines two or more arrays and returns a new array.
-copyWithin(): Copies a portion of the array to a specified position.
-slice(): Copies a portion of the array and returns a new array.
+`Array()` or []: Creates a new array.<br/>
+`Array.from():` Converts an array-like object or iterable into an array.<br/>
+`Array.of()`: Creates a new array with specified elements.<br/>
+`concat()`: Combines two or more arrays and returns a new array.<br/>
+`copyWithin()`: Copies a portion of the array to a specified position.<br/>
+`slice()`: Copies a portion of the array and returns a new array.<br/>
 
 ### Array Modification Methods:
 
-push(): Adds one or more elements to the end of the array.
-pop(): Removes an element from the end of the array.
-unshift(): Adds one or more elements to the beginning of the array.
-shift(): Removes an element from the beginning of the array.
-splice(): Modifies or removes a portion of the array.
+`push()`: Adds one or more elements to the end of the array.<br/>
+`pop()`: Removes an element from the end of the array.<br/>
+`unshift()`: Adds one or more elements to the beginning of the array.<br/>
+`shift()`: Removes an element from the beginning of the array.<br/>
+`splice()`: Modifies or removes a portion of the array.<br/>
 
 ### Array Filtering and Transformation Methods:
 
-filter(): Returns a new array with elements that meet a specified condition.
-map(): Applies a function to each element and returns a new array.
-reduce(): Combines array elements into a single value.
-reduceRight(): Combines array elements from right to left into a single value.
-reverse(): Reverses the order of elements in the array.
-sort(): Sorts the array.
+`filter()`: Returns a new array with elements that meet a specified condition.<br/>
+`map()`: Applies a function to each element and returns a new array.<br/>
+`reduce()`: Combines array elements into a single value.<br/>
+`reduceRight()`: Combines array elements from right to left into a single value.<br/>
+`reverse()`: Reverses the order of elements in the array.<br/>
+`sort():` Sorts the array.
 
 ### Array Searching and Modification Methods:
 
-indexOf(): Returns the index of a specified element.
-lastIndexOf(): Returns the last index of a specified element.
-find(): Returns the first element that meets a specified condition.
-findIndex(): Returns the index of the first element that meets a specified condition.
-includes(): Returns true if a specific element is found in the array.
-some(): Returns true if at least one element meets a specified condition.
-every(): Returns true if all elements meet a specified condition.
-fill(): Fills the array with a specified value.
-join(): Joins array elements into a string.
-toString(): Joins array elements into a string.
+`indexOf()`: Returns the index of a specified element.<br/>
+`lastIndexOf()`: Returns the last index of a specified element.<br/>
+`find()`: Returns the first element that meets a specified condition.<br/>
+`findIndex()`: Returns the index of the first element that meets a specified condition.<br/>
+`includes()`: Returns true if a specific element is found in the array.<br/>
+`some()`: Returns true if at least one element meets a specified condition.<br/>
+`every()`: Returns true if all elements meet a specified condition.<br/>
+`fill()`: Fills the array with a specified value.<br/>
+`join()`: Joins array elements into a string.<br/>
+`toString()`: Joins array elements into a string.<br/>
 
 ### Array Size and Information Methods:
 
-length: Returns the length of the array.
-isArray(): Checks if an object is an array.
-concat(): Combines two or more arrays and returns a new array.
+`length`: Returns the length of the array.<br/>
+`isArray()`: Checks if an object is an array.<br/>
+`concat()`: Combines two or more arrays and returns a new array.<br/>
 
 ### Array Modification Methods:
 
-copyWithin(): Copies a portion of the array to a specified position.
-fill(): Fills the array with a specified value.
-sort(): Sorts the array elements alphabetically or numerically.
+`copyWithin()`: Copies a portion of the array to a specified position.<br/>
+`fill()`: Fills the array with a specified value.<br/>
+`sort()`: Sorts the array elements alphabetically or numerically.<br/>
