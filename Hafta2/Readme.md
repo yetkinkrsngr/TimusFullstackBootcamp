@@ -1,14 +1,14 @@
 # Hafta 2 Ders içeriği
 
-| Subject |
-| :-----: |
-|         |
-|         |
-|         |
-|         |
-|         |
-|         |
-|         |
+|   Subject   |
+| :---------: |
+| Switch-Case |
+|             |
+|             |
+|             |
+|             |
+|             |
+|             |
 
 ## Hafta 2 ödev
 
