@@ -1,14 +1,14 @@
 # Hafta 2 Ders içeriği
 
-|   Subject   |
-| :---------: |
-| Switch-Case |
-|   Object    |
-|             |
-|             |
-|             |
-|             |
-|             |
+|     Subject      |
+| :--------------: |
+|   Switch-Case    |
+| Object and Class |
+|  Object Methods  |
+|                  |
+|                  |
+|                  |
+|                  |
 
 ## Hafta 2 ödev
 
