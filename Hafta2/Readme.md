@@ -3,7 +3,7 @@
 |   Subject   |
 | :---------: |
 | Switch-Case |
-|             |
+|   Object    |
 |             |
 |             |
 |             |

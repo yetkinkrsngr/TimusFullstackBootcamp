@@ -41,3 +41,27 @@ console.log("Arabanın Hızı: " + audiA3.hiz + " km/saat");
 ```
 
 Bu JavaScript örneği, Araba adında bir sınıf oluşturur ve her araba modeli için ayrı nesneler oluşturur. Bu nesneler, araba özelliklerini içerir ve arabaların hızını artırmak gibi işlemleri gerçekleştirmek için kullanılabilir. Bu, nesnelerin gerçek dünyadaki nesneleri temsil etmek için nasıl kullanılabileceğini gösterir.
+
+# Sınıf yapısı(Class):
+
+programlamada önemli bir kavramdır ve neden kullanıldığını anlamak için aşağıdaki konuları göz önünde bulundurabiliriz:
+
+1. Nesne Yönelimli Programlamayı Destekler:
+   Sınıflar, nesne yönelimli programlamanın (OOP) temel taşlarından biridir. OOP, programların daha iyi organize edilmesini, kodun daha anlaşılır ve bakımı daha kolay hale getirilmesini sağlar. Sınıflar, verileri ve ilgili işlevleri bir araya getirerek nesne oluşturma ve kullanma işlemini kolaylaştırır.
+
+2. Kodun Daha Organize Edilmesini Sağlar:
+   Sınıflar, kodun daha düzenli ve hiyerarşik bir yapıya sahip olmasına yardımcı olur. Özellikle büyük projelerde, farklı sınıflar kullanarak kodu daha iyi parçalayabilir ve yönetebilirsiniz. Her sınıf, belirli bir işlevselliği veya nesneyi temsil eder.
+
+3. Veri Saklama ve Yönetme:
+   Sınıflar, verileri daha iyi organize etmek ve saklamak için kullanılır. Bir sınıf içinde veriler (alanlar veya özellikler) depolanabilir ve bu verilere yönelik işlemler (metodlar) tanımlanabilir. Bu, verilerin daha güvenli ve düzenli bir şekilde yönetilmesini sağlar.
+
+4. Kodun Tekrar Kullanılabilir Olmasını Sağlar:
+   Sınıf yapısı, kodun yeniden kullanılabilirliğini artırır. Bir sınıfı oluşturduğunuzda, bu sınıfı farklı projelerde veya farklı parçaları arasında kullanabilirsiniz. Bu, kodun tekrar yazılmasını önler ve geliştirme sürecini hızlandırır.
+
+5. Soyutlamayı Destekler:
+   Sınıflar, nesnelerin soyutlamasını (abstraction) sağlar. Yani, gerçek dünyadaki nesneleri programda soyut bir şekilde temsil edebilirsiniz. Örneğin, bir "Araba" sınıfı oluşturarak her tür arabayı temsil edebilirsiniz.
+
+6. İşbirliği ve Modülerlik:
+   Sınıflar, farklı programcıların aynı projede işbirliği yapmasını kolaylaştırır. Her bir sınıf, belirli bir işlevselliği veya bileşeni temsil eder, bu da farklı programcıların farklı sınıflar üzerinde çalışmasını sağlar.
+
+Bu nedenlerle sınıf yapısı, programlama dilinin temel bir özelliğidir ve kodun daha düzenli, sürdürülebilir ve anlaşılır olmasına yardımcı olur.
