@@ -9,6 +9,8 @@
 |            Get And Set Vs Private-Property             |
 | philosophy of synchronous and asynchronous programming |
 |                     Promise Logic                      |
+|                    Access Modifier                     |
+|                     Promise Chains                     |
 
 ## Hafta 2 ödev
 
