@@ -1,13 +1,13 @@
 # Hafta 3 Ders içeriği
 
-|      Subject       |
-| :----------------: |
-| Creating A Project |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
+|                                                                  Subject                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Creating A Project ,-i express , -i nodemon ,diff devDependencies vs Dependencies , HTTP Methods , HTTP Status ,Route and Query Parameters |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
+|                                                                                                                                            |
