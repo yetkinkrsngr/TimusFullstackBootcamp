@@ -149,3 +149,15 @@ Son olarak, sunucumuzu başlatıyoruz ve app.listen(3000) kullanarak 3000 portun
     - Sorgu parametreleri, belirli bir sayfanın veya işlemin belirli bir durumunu veya filtresini ayarlamak için kullanılır. Örneğin, sayfa numarası, sıralama seçenekleri, filtreleme kriterleri vb.
     - Örnek bir URL: `/products?category=electronics&sort=price`, burada `category` ve `sort` sorgu parametreleridir.
     - Express.js gibi web çerçevelerinde, sorgu parametreleri `req.query` nesnesi içinde erişilebilir.
+
+## FS modülü nedir?
+
+> Node.js, dosya sistemiyle etkileşim kurmak için fs modülünü kullanır. Bu modül, dosyaları okumak, oluşturmak, güncellemek, silmek ve taşımak için birçok fonksiyon içerir.
+> bunu bir kur. ve fs modülünü kullanarak bir dosya oluştur.
+> json database oluştur rest startndarına göre bir api oluştur.
+
+---
+
+## JWT nedir?
+
+JWT (JSON Web Token), kullanıcıların kimlik doğrulaması ve bilgilerini güvenli bir şekilde aktarmak için kullanılan bir standarttır. JWT, verileri JSON formatında taşır ve bu veriler dijital olarak imzalanır. Bu sayede, verilerin güvenliği sağlanır ve verilerin doğruluğu garanti altına alınır.

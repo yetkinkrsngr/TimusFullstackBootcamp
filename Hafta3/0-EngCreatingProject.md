@@ -125,3 +125,17 @@ Finally, the application is started, and `app.listen
 - Query parameters are used to set specific conditions or filters for a particular page or operation. For example, page number, sorting options, filtering criteria, etc.
 - In a URL like `/products?category=electronics&sort=price`, `category` and `sort` are query parameters.
 - In web frameworks like Express.js, query parameters are accessible via the `req.query` object.
+
+## What is the FS module?
+
+> Node.js uses the fs module to interact with the file system. This module contains many functions for reading, creating, updating, deleting, and moving files.
+
+> Install it and create a file using the fs module.
+
+> Create a JSON database and build an API according to the REST standard.
+
+---
+
+## What is JWT?
+
+> JWT (JSON Web Token) is a standard used for securely authenticating users and transmitting information. JWT carries data in JSON format, and this data is digitally signed. This ensures the security of the data and guarantees its accuracy.
