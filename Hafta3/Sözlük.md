@@ -33,11 +33,11 @@ Tek Kanallı (Single Threaded) ancak Yüksek Ölçeklenebilir – Node.js, olay 
 Arabellek Yok – Node.js uygulamaları herhangi bir veriyi hiçbir zaman arabelleğe almıyor. Bu uygulamalar basitçe verileri parçalara ayırır.
 
 License − Node.js, MIT lisansa sahiptir.
-![node](/assets/img.png)
+![node](assets/img.png)
 
 ## 4.Node.js Kavramları :
 
-![node](/assets/img2.jpg)
+![node](assets/img2.jpg)
 
 ## 5. Node Paket Yöneticisi (npm) :
 
