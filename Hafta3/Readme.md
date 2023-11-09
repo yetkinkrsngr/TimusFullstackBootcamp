@@ -8,8 +8,5 @@
 |             Put Methods              |
 |            Delete Methods            |
 |       Dictionary only Turkish        |
-|                                      |
-|                                      |
-|                                      |
 
-> .......:-i nodemon ,diff devDependencies vs Dependencies , HTTP Methods , HTTP Status ,Route and Query Parameters
+.......:-i nodemon ,diff devDependencies vs Dependencies , HTTP Methods , HTTP Status ,Route and Query Parameters
