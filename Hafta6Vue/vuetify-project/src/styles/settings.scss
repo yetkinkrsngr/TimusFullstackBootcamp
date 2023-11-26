@@ -1,0 +1,26 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// https://vuetifyjs.com/features/sass-variables/`
+// @use 'vuetify/settings' with (
+//   $color-pack: false
+// );
+
+.font-weight-bold {
+
+}
+
+.f-w-200 {
+
+}
+
+.mr-2-5 {
+  margin-right: 10px !important;
+}
+
+.mr-n2_5 {
+  margin-right: 10px !important;
+}
